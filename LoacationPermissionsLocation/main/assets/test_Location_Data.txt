@@ -1,0 +1,5 @@
+id,title,[address],menu link,complex boolean,[plus code]
+0018044000001,Tomuchawesome inc.,[115 Pine Ridge Ct, Fairplay, CO 80440, USA],tomuchawesome.com ,false,[6WXQ+J7 Fairplay, Colorado]
+0018242400001,Wood Winds,[300 N Main St, Breckenridge, CO 80424, USA],woodwinds.com ,false,[FXM3+VJ Breckenridge, Colorado]
+0018014350001,Cala Pub and Restaurant,[40 Cove Blvd, Dillon, CO 80435, USA],http://www.calapub.com/menus ,true,[JX2R+PH Dillon, Colorado]
+

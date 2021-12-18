@@ -1,0 +1,9 @@
+
+
+
+
+so i need to make test data base
+    and create another button that will display a new activity
+        that activity will display the "website string"
+    the test data base will hold the id, name, [address], website, complex boolean, [GPA coordinates if complex true]
+        ex) {0018042000001, tomuchawesome, [115 Pine Ridge ct, Fairplay, CO 80440, USA], tomuchawesome.com, false, [null] }
